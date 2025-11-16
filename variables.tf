@@ -11,3 +11,12 @@ variable "environment" {
 variable "component" {
     type = string
 }
+
+variable "rule_priority" {
+  
+}
+
+variable "domain_name" {
+    type = string
+    default = "manidevops.fun"
+}
