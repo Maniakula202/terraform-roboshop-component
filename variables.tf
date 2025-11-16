@@ -9,7 +9,7 @@ variable "environment" {
 }
 
 variable "component" {
-    type = string
+
 }
 
 variable "rule_priority" {
